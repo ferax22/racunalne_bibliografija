@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.11)  25 JAN 2019 21:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.11)  26 JAN 2019 20:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1422,37 +1422,44 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 
 [5
 
+] [6
+
+] [7
+
+] [8
+
+] [9
+
 ]
+\tf@nav=\write8
+\openout8 = `bibliografije.nav'.
 
-! LaTeX Error: There's no line here to end.
+\tf@toc=\write9
+\openout9 = `bibliografije.toc'.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.58 \end{frame}
-                
-? 
-! Emergency stop.
- ...                                              
-                                                  
-l.58 \end{frame}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+\tf@snm=\write10
+\openout10 = `bibliografije.snm'.
 
- 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
+ (./bibliografije.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
+Package rerunfilecheck Info: File `bibliografije.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package logreq Info: Writing requests to 'bibliografije.run.xml'.
+\openout1 = `bibliografije.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 23694 strings out of 492982
- 445043 string characters out of 6134896
- 865411 words of memory out of 5000000
- 26804 multiletter control sequences out of 15000+600000
- 6014 words of font info for 22 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 56i,16n,57p,843b,1452s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
-sequences out of 15000+600000
+ 23712 strings out of 492982
+ 445093 string characters out of 6134896
+ 866411 words of memory out of 5000000
+ 26812 multiletter control sequences out of 15000+600000
  6014 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,57p,843b,1452s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1460,7 +1467,7 @@ sequences out of 15000+600000
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on bibliografije.pdf (9 pages, 57425 bytes).
+Output written on bibliografije.pdf (9 pages, 57469 bytes).
 PDF statistics:
  281 PDF objects out of 1000 (max. 8388607)
  254 compressed objects within 3 object streams

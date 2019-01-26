@@ -9,3 +9,10 @@
 *.maf
 *.mtc
 *.mtc1
+*.aux
+*.bcf
+*.log
+*.nav
+*.out
+*.run.xml
+*.snm
