@@ -10,7 +10,7 @@
 
 \title{Bibliografije}
 \date{\today}
-\author{Hana Lerga \\ Anton Pavelić \\ Ivana Štimac}
+\author{Hana Rut Lerga \\ Anton Pavelić \\ Ivana Štimac}
 \institute{Tehnički fakultet Rijeka}
 
 \begin{frame}
@@ -26,9 +26,9 @@
 \begin{itemize}
 	\item tri paketa za upravljanje bibliografijom:\\
 	\begin{itemize}
+		\item biblatex \\
 		\item bibtex \\
 		\item natbib \\
-		\item biblatex \\
 	\end{itemize}
 \end{itemize}
 	
@@ -49,12 +49,13 @@
 \begin{itemize}
 	\item paket se poziva naredbom \textbackslash usepackage\{biblatex\}\\
 	\item \textbackslash cite je naredba kojom dodajemo referencu u tekst dokumenta \\
-	\item \textbackslash printbibliography je naredba kojom se ispisuje reference \\
+	\item \textbackslash printbibliography je naredba kojom se ispisuju reference \\
 \end{itemize}
 \end{frame}
 
 \begin{frame}{Bibtex sintaksa}
 \begin{itemize}
+	\item koristi se u svim navedenim paketima za upravljanje bibliografijama \\
 	\item prvo se navodi na što se informacija koja se navodi u referenci odnosi \\
 	\begin{itemize}
 		\item @article\{...\} \\
@@ -85,12 +86,98 @@
 	\item dodatne opcije se upisuju pokraj \textbackslash printbibliography \\
 	\item primjer:
 	\begin{figure}
-	\includegraphics[width=5cm]{/home/ivana/racunalne_bibliografija/treciprimjer.png}
+	\includegraphics[width=5cm]{/home/ivana/racunalne_bibliografija/prviprimjer.png/treciprimjer.png}
 	\end{figure}
 \end{itemize}
 \end{frame}
 
+\begin{frame}{Natbib}
+\begin{itemize}
+	\item jedan od paketa za upravljanje bibloigrafijama \\
+	\item stabilan i vrlo često korišten \\
+	\item primjer korištenja: \\ 
+	\begin{figure}
+	\includegraphics[width=5cm]{/home/hana/bibliografija/racunalne_bibliografija/natbibprimjer.png}
+	\end{figure}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\begin{itemize}
+	\item paket se poziva naredbom \textbackslash usepackage\{natbib\}\\
+	\item i ovdje se koristi naredba \textbackslash cite ali dorađena\\
+	\begin{itemize}
+		\item \textbackslash citet za tekstualne izvore \\
+		\item \textbackslash citeyear za godine itd. \\
+	\end{itemize}  
+	\item naredbom \textbacklash bibliography{sample} učitati će se datoteka sample.bib \\
+	\item sample.bib sadrži izvore bibliografije \\
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Natbib i sintaksa}
+\begin{itemize}
+	\item koristi se već spomenuta Bibtex sintaksa \\
+	\item nakon znaka @ se navodi na što se informacija u referenci odnosi \\
+	\begin{itemize}
+		\item @article\{...\} \\
+		\item @book \{...\}\\
+		\item @online \{...\} ... \\
+	\end{itemize}
+	\item primjer navođenja internetskih stranica \\
+		\begin{itemize}
+			\item author = Ime autora \\
+			\item title = Naziv članka \\
+			\item url = "http://www.onlinečlanak.com" \\
+		\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Dodatne opcije}
+\begin{itemize}
+	\item dodaju se unutar uglatih zagrada i odvajaju se zarezom \\
+	\item njima se mijenja pozadina, stil (redoslijed referenci), način sortiranja... \\
+	\item primjeri:
+	\begin{itemize}
+			\item square - koristi uglate zagrade \\
+			\item numbers - za numerička citiranja \\
+			\item comma - odvaja citate zarezom \\
+			\item longnamefirst - prvo navodi cijelo ime autora \\
+	\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Dodavanje bibliografije u sadržaj}
+\begin{itemize}
+	\item da bi se bibliografija uključila u tablicu sadržaja uvodi se paket tocbibind \\
+	\item dodatne opcije se upisuju pokraj \textbackslash printbibliography \\
+	\item primjer:
+	\begin{figure}
+	\includegraphics[width=5cm]{/home/hana/bibliografija/racunalne_bibliografija/natbibprimjer2.png}
+	\end{figure}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Stilovi bibliografija}
+\begin{itemize}
+	\item primjer navođenja izabranog stila: \\
+	\begin{figure}
+	\includegraphics[width=5cm]{/home/hana/bibliografija/racunalne_bibliografija/natbibprimjer3.png}
+	\end{figure}
+	\item neki stilovi su:
+	\begin{itemize}
+			\item dinat, humannat, plainnat, abbrvnat itd.  \\
+	\end{itemize}
+\end{itemize}
+\end{frame}
+
+
+
 \begin{frame}{Zaključak}
+	\item jedna od velikih prednosti LaTex-a je jednostavno manipuliranje bibliografijama \\
+	\item bibtex je osnovni paket te je i najjednostavniji \\
+	\item biblatex pruža više mogućnosti konfiguracije i više stilova \\
+	\item natbib omogućava najviše stilova prikaza literature pa je i najkompliciraniji za korištenje \\
 \end{frame}
 
 \begin{frame}
