@@ -1,6 +1,7 @@
 
 #Gitignore
 
+*.log
 *.toc
 *.ist
 *.acn
