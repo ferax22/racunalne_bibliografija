@@ -2,8 +2,8 @@
 Tema: 
 -Bibliografija
 Članovi: 
--Hana Rut Lerga 40% 
--Anton Pavelić 20% 
--Ivana Štimac 40%
+-Hana Rut Lerga 35% 
+-Anton Pavelić 30% 
+-Ivana Štimac 35%
 
 
