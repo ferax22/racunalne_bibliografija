@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.11)  27 JAN 2019 21:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.11)  27 JAN 2019 21:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1209,20 +1209,20 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./bibliografije.aux)
 \openout1 = `bibliografije.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1290,7 +1290,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 9.
+Package hyperref Info: Link coloring OFF on input line 10.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1300,66 +1300,66 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count351
 )
-LaTeX Info: Redefining \ref on input line 9.
-LaTeX Info: Redefining \pageref on input line 9.
-LaTeX Info: Redefining \nameref on input line 9.
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
 
 (./bibliografije.out) (./bibliografije.out)
 \@outlinefile=\write7
 \openout7 = `bibliografije.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 9.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 10.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 10.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 9.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 9.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 10.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 9.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 9.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 10.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 9.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 9.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 10.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 9.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 9.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 10.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 10.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 9.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 9.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 9.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 9.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 9.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 10.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 10.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 9
-.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-9.
+10.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 9.
+ut line 10.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1394,12 +1394,12 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'bibliografije.bbl' not found.
 
 No file bibliografije.bbl.
-Package biblatex Info: Reference section=0 on input line 9.
-Package biblatex Info: Reference segment=0 on input line 9.
+Package biblatex Info: Reference section=0 on input line 10.
+Package biblatex Info: Reference segment=0 on input line 10.
 No file bibliografije.nav.
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 13.
+(hyperref)                setting the option has no effect on input line 14.
 
 [1
 
@@ -1409,89 +1409,65 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 ] [3
 
 ]
-<prviprimjer.png, id=101, 483.8075pt x 311.1625pt>
+<prviprimjer.png, id=120, 483.8075pt x 311.1625pt>
 File: prviprimjer.png Graphic file (type png)
 <use prviprimjer.png>
-Package pdftex.def Info: prviprimjer.png  used on input line 48.
+Package pdftex.def Info: prviprimjer.png  used on input line 49.
 (pdftex.def)             Requested size: 142.26378pt x 91.49776pt.
- [4
+
+
+LaTeX Warning: Citation 'biblatex' on page 4 undefined on input line 49.
+
+[4
 
  <./prviprimjer.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 56.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 57.
 
-LaTeX Font Info:    No file OMScmss.fd. on input line 56.
+LaTeX Font Info:    No file OMScmss.fd. on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 56.
+(Font)              for symbol `textbackslash' on input line 57.
 
 [5
 
 ] [6
 
 ]
-<drugiprimjer.png, id=186, 170.6375pt x 101.37875pt>
+<drugiprimjer.png, id=204, 170.6375pt x 101.37875pt>
 File: drugiprimjer.png Graphic file (type png)
 <use drugiprimjer.png>
-Package pdftex.def Info: drugiprimjer.png  used on input line 85.
+Package pdftex.def Info: drugiprimjer.png  used on input line 86.
 (pdftex.def)             Requested size: 71.13188pt x 42.26166pt.
  [7
 
  <./drugiprimjer.png>]
-<treciprimjer.png, id=215, 304.13625pt x 96.36pt>
+<treciprimjer.png, id=233, 304.13625pt x 96.36pt>
 File: treciprimjer.png Graphic file (type png)
 <use treciprimjer.png>
-Package pdftex.def Info: treciprimjer.png  used on input line 95.
+Package pdftex.def Info: treciprimjer.png  used on input line 96.
 (pdftex.def)             Requested size: 142.26378pt x 45.07452pt.
  [8
 
- <./treciprimjer.png>] [9
+ <./treciprimjer.png>]
+
+LaTeX Warning: Citation 'bibtex' on page 9 undefined on input line 107.
+
+[9
 
 ]
-<bibtexUDokumentu.png, id=271, 694.595pt x 344.28625pt>
+<bibtexUDokumentu.png, id=288, 694.595pt x 344.28625pt>
 File: bibtexUDokumentu.png Graphic file (type png)
 <use bibtexUDokumentu.png>
-Package pdftex.def Info: bibtexUDokumentu.png  used on input line 116.
+Package pdftex.def Info: bibtexUDokumentu.png  used on input line 117.
 (pdftex.def)             Requested size: 284.52756pt x 141.03218pt.
  [10
 
  <./bibtexUDokumentu.png>]
-LaTeX Font Info:    Try loading font information for OML+cmss on input line 138
+LaTeX Font Info:    Try loading font information for OML+cmss on input line 139
 .
-LaTeX Font Info:    No file OMLcmss.fd. on input line 138.
+LaTeX Font Info:    No file OMLcmss.fd. on input line 139.
 
 
-LaTeX Font Warning: Font shape `OML/cmss/m/n' undefined
-(Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textless' on input line 138.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.138 \end{frame}
-                 
-? 
-! Emergency stop.
- ...                                              
-                                                  
-l.138 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
- 
-Here is how much of TeX's memory you used:
- 23716 strings out of 492982
- 445510 string characters out of 6134896
- 867411 words of memory out of 5000000
- 26808 multiletter control sequences out of 15000+600000
- 6014 words of font info for 22 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 56i,16n,57p,843b,1452s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+LaTeX Font Warning: Font shape `OML/cmss/
