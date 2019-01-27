@@ -128,7 +128,7 @@ Izgled:
     \begin{figure}
     \includegraphics[width=10cm]{bibtexUDokumentu2.png}
     \end{figure}
-    \item primjer koristenja reference na djelo: \textit{\textbackslash cite\{imeReference\}} \\
+    \item primjer korištenja reference na djelo: \textit{\textbackslash cite\{imeReference\}} \\
 \end{itemize}
 \end{frame}
 
@@ -138,7 +138,7 @@ Izgled:
     \begin{figure}
     \includegraphics[width=7cm]{bibtexZaseban.png}
     \end{figure}
-    \item \textbackslash bibliographystype\{unsrt\} - stil izgleda teksta kao u dokumentu \\
+    \item \textbackslash bibliographystyle\{unsrt\} - stil izgleda teksta kao u dokumentu \\
     \item \textbackslash bibliography\{sample\} - uključivanje \textbf{sample.bib} (BibTeX) datoteke \\
 \end{itemize}    
 \end{frame}
@@ -159,6 +159,15 @@ Objašnjenje naredbi:
     \item \{\textbf{ime} ..... - početak i ime reference \\
     \item podatci o: autoru, naslovu, godini... \\
     \item \} - kraj reference
+\end{itemize}
+Dodavanje bibliografije tablici sadržaja:
+\begin{itemize}
+    \item Ručno: \\
+    \begin{itemize}
+        \item \textbackslash addcontentsline \{toc\}\{chapter\}\{Bibliography\} - za knjige \\
+        \item \textbackslash addcontentsline \{toc\}\{section\}\{References\} - za članke \\
+    \end{itemize}
+    \item Automatski: \textbackslash usepackage[nottoc]\{tocbibind\} - sam prepoznaje namjenu\\
 \end{itemize}
 \end{frame}
 
